@@ -1,0 +1,45 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/lyric/lyric",
+        "pages/search/search",
+        "pages/audio/audio",
+        "pages/play-list/play-list",
+        "pages/menu-details/menu-details"
+    ],
+    "subPackages": [],
+    "window": {
+        "enablePullDownRefresh": false,
+        "navigationBarTextStyle": "white",
+        "navigationBarBackgroundColor": "#1E90FF",
+        "backgroundColor": "#F8F8F8"
+    },
+    "tabBar": {
+        "color": "#C0C4CC",
+        "selectedColor": "#7dc5eb",
+        "borderStyle": "black",
+        "backgroundColor": "#F8F8FF",
+        "fontSize": "12px",
+        "iconWidth": "24px",
+        "spacing": "3px",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "iconPath": "static/tabbar/music1.png",
+                "selectedIconPath": "static/tabbar/music2.png",
+                "text": "首页"
+            },
+            {
+                "pagePath": "pages/search/search",
+                "iconPath": "static/tabbar/search1.png",
+                "selectedIconPath": "static/tabbar/search2.png",
+                "text": "搜索"
+            }
+        ]
+    },
+    "requiredBackgroundModes": [
+        "audio"
+    ],
+    "usingComponents": {},
+    "sitemapLocation": "sitemap.json"
+}

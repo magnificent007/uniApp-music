@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "搜索",
+  "usingComponents": {
+    "u-sticky": "/uni_modules/uview-ui/components/u-sticky/u-sticky",
+    "u-tabs": "/uni_modules/uview-ui/components/u-tabs/u-tabs",
+    "u-search": "/uni_modules/uview-ui/components/u-search/u-search",
+    "u-divider": "/uni_modules/uview-ui/components/u-divider/u-divider",
+    "hot-search": "/components/hot-search/hot-search",
+    "u-cell-group": "/uni_modules/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell": "/uni_modules/uview-ui/components/u-cell/u-cell",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u-loadmore": "/uni_modules/uview-ui/components/u-loadmore/u-loadmore",
+    "u-loading-page": "/uni_modules/uview-ui/components/u-loading-page/u-loading-page"
+  }
+}

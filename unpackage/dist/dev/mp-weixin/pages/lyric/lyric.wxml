@@ -1,0 +1,1 @@
+<view><bing-lyric vue-id="46b2ce80-1" lyrics="{{lyric}}" curTime="{{curTime}}" bind:__l="__l"></bing-lyric><u-button vue-id="46b2ce80-2" text="sdfs" data-event-opts="{{[['^click',[['c']]]]}}" bind:click="__e" bind:__l="__l"></u-button><u-button vue-id="46b2ce80-3" text="fs" data-event-opts="{{[['^click',[['g']]]]}}" bind:click="__e" bind:__l="__l"></u-button></view>

@@ -1,0 +1,15 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-row": "/uni_modules/uview-ui/components/u-row/u-row",
+    "u-col": "/uni_modules/uview-ui/components/u-col/u-col",
+    "u-avatar": "/uni_modules/uview-ui/components/u-avatar/u-avatar",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u-overlay": "/uni_modules/uview-ui/components/u-overlay/u-overlay",
+    "u-transition": "/uni_modules/uview-ui/components/u-transition/u-transition",
+    "u-input": "/uni_modules/uview-ui/components/u-input/u-input",
+    "u-code": "/uni_modules/uview-ui/components/u-code/u-code",
+    "u-loading-page": "/uni_modules/uview-ui/components/u-loading-page/u-loading-page",
+    "u-notify": "/uni_modules/uview-ui/components/u-notify/u-notify"
+  }
+}

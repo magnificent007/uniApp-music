@@ -1,0 +1,50 @@
+.u-block{
+	padding: 14px;
+	&__section{
+		margin-bottom:10px;
+	}
+	&__title {
+		margin-top:10px;
+		font-size: 15px;
+		color: $u-content-color;
+		margin-bottom:10px;
+	}
+	&__flex{
+		/* #ifndef APP-NVUE */
+		display: flex;
+		/* #endif */
+	}
+}
+
+// 使用了cell组件的icon图片样式
+.u-cell-icon {
+	width: 36rpx;
+	height: 36rpx;
+	margin-right: 8rpx;
+}
+
+.u-page {
+	padding: 30rpx;
+}
+
+.u-demo-block {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	margin-bottom: 13px;
+	// width: 230px;
+	
+	&__content {
+		@include flex(column);
+		width: 220px;
+	}
+	
+	&__title {
+		font-size: 14px;
+		color: rgb(143, 156, 162);
+		margin-bottom: 8px;
+		@include flex;
+	}
+}
+

@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "歌单详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-row": "/uni_modules/uview-ui/components/u-row/u-row",
+    "u-col": "/uni_modules/uview-ui/components/u-col/u-col",
+    "u-image": "/uni_modules/uview-ui/components/u-image/u-image",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u-loadmore": "/uni_modules/uview-ui/components/u-loadmore/u-loadmore",
+    "u-cell": "/uni_modules/uview-ui/components/u-cell/u-cell",
+    "u-empty": "/uni_modules/uview-ui/components/u-empty/u-empty",
+    "u-loading-page": "/uni_modules/uview-ui/components/u-loading-page/u-loading-page"
+  }
+}

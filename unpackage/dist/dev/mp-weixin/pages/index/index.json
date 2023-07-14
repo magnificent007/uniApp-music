@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "邪妖怪音悦台",
+  "usingComponents": {
+    "login": "/components/login/login",
+    "song-menu": "/components/song-menu/song-menu"
+  }
+}

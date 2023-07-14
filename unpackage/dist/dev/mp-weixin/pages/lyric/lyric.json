@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "歌词",
+  "usingComponents": {
+    "bing-lyric": "/components/bing-lyric/bing-lyric",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button"
+  }
+}
